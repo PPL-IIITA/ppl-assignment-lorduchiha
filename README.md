@@ -1,5 +1,5 @@
 # ppl-assignment-lorduchiha
-ppl-assignment-lorduchiha created by GitHub Classroom
+
 
 Created on Windows using netbeans:: 
 Assignment by ->RIT2015088
