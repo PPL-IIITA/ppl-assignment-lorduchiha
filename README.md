@@ -3,8 +3,8 @@
 
 
 
-Created on Windows using netbeans:: 
-Assignment by ->RIT2015088
+#Created on Windows using netbeans:: 
+#Assignment by ->RIT2015088
               ->NITESH SINGH MUNDA
               ->Section B
 
@@ -12,7 +12,7 @@ Assignment by ->RIT2015088
 
 
 
-->Running Program on Windows:
+#->Running Program on Windows:
         
         (for Running on command prompt with jdk installed prior)
         
@@ -26,7 +26,7 @@ Assignment by ->RIT2015088
 
 
 
-->Running on linux:
+#->Running on linux:
         
         open terminal and change Directory to extracted folder "ppl-assignment-lorduchiha".
         
@@ -38,15 +38,16 @@ Assignment by ->RIT2015088
                        
  
  
- ->used Doxygen for documentation 
+ #->used Doxygen for documentation 
  
  
-      go to extracted folder "ppl-assignment-lorduchiha" and run index.html  \
-      path==="/ppl-assignment-lorduchiha/documentation/index.html"
+      go to extracted folder "ppl-assignment-lorduchiha" and open folder documentation for question1 and
+      
+      documentation_Q1 for question2 and run index.html  for both
   
  
  
- ->pdf of class diagram  
+ #->pdf of class diagram  
                       question 1 and question 2 are included inside go to the extracted folder named q1.pdf and q2.pdf.
                               
                               
