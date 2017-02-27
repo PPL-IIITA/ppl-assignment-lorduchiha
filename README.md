@@ -38,11 +38,16 @@ Assignment by ->RIT2015088
                        
  
  
- ->used Doxygen for documentation named /ppl-assignment-lorduchiha/documentation/index.html.
+ ->used Doxygen for documentation 
+ 
+ 
+      go to extracted folder "ppl-assignment-lorduchiha" and run index.html  \
+      path==="/ppl-assignment-lorduchiha/documentation/index.html"
   
  
  
- ->pdf of class diagram of question 1 and question 2 are included inside go to the extracted folder named q1.pdf and q2.pdf.
+ ->pdf of class diagram  
+                      question 1 and question 2 are included inside go to the extracted folder named q1.pdf and q2.pdf.
                               
                               
                               
