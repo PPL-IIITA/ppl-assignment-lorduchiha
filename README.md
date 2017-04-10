@@ -16,6 +16,8 @@
         
         (for Running on command prompt with jdk installed prior)
         
+        ## RECOMMENDED TO USE NETBEANS FOR FLAWLESS EXECUTION OF CODES
+        
         Open command Prompt and change Directory to extraxted folder "ppl-assignment-lorduchiha".
         
         FOR QUESTION 1 & 2--->
