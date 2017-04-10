@@ -3,12 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package q9;
 
-/**
- *
- * @author pride
- */
 class makeCouples {
     public void make(Boys[] b, Girls[] g,int t){
         int p,q;
