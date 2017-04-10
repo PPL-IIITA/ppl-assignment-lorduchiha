@@ -1,4 +1,3 @@
-package q9;
 
 
 import java.lang.*;
