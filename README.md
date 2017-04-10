@@ -18,10 +18,20 @@
         
         Open command Prompt and change Directory to extraxted folder "ppl-assignment-lorduchiha".
         
-        Then change Directory to "/questions/src/".
+        FOR QUESTION 1 & 2--->
+         
+                       Then change Directory to "/questions/src/".
         
-        Then use command -->  for question 1: javac q1.java    --then--   java q1
-                              for question 2: javac q2.java    --then--    java q1
+                       Then use command -->  for question 1: javac q1.java    --then--   java q1
+                                             for question 2: javac q2.java    --then--    java q1
+                              
+        FOR QUESTIONS 3 TO 10--->
+  
+                              for questions 3 to 10 folder are named according to the question.
+                              open the folder for that question then go to the path "\src\q3\"
+                              after opening the src folder run the main.java file using  javac main.java ----then--- java main.
+                              similarly you can open for other questions named folder also.
+                            
                                               
 
 
@@ -30,11 +40,20 @@
         
         open terminal and change Directory to extracted folder "ppl-assignment-lorduchiha".
         
-        then change Directory to "/questions/src".
+       FOR QUESTION 1 & 2--->
+         
+                       Then change Directory to "/questions/src/".
         
-        then use command  -->  for qquestion 1:javac q1.java    --then   java q1
-                                for question 2:javac q2.java    --then   java q2
+                       Then use command -->  for question 1: javac q1.java    --then--   java q1
+                                             for question 2: javac q2.java    --then--    java q1
                               
+      FOR QUESTIONS 3 TO 10--->
+  
+                              for questions 3 to 10 folder are named according to the question.
+                              open the folder for that question then go to the path "\src\q3\"
+                              after opening the src folder run the main.java file using  javac main.java ----then--- java main.
+                              similarly you can open for other questions named folder also.
+                            
                        
  
  
@@ -44,11 +63,15 @@
       go to extracted folder "ppl-assignment-lorduchiha" and open folder documentation for question1 and
       
       documentation_Q1 for question2 and run index.html  for both
+      
+      Open folder DOCUMENTATION for documentation for question 3 to 10.
   
  
  
  #->pdf of class diagram  
                       question 1 and question 2 are included inside go to the extracted folder named q1.pdf and q2.pdf.
+                      
+                      Open the Folder CLASS DIAGRAM for class diagram of question from 3 to 10
                               
                               
                               
