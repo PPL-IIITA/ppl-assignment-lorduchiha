@@ -1,4 +1,4 @@
-mport java.lang.*;
+import java.lang.*;
 
 public class Gifting {
     public void calculate(Gifts gft[],Boys b[],Girls g[]){
