@@ -3,9 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package q7;
-
-
 
 public class ArrayImplementation {
     public void find_girl(String[] searchBoys,String[] result,Girls[] g,int t){
