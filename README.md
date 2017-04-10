@@ -42,6 +42,8 @@
         
         open terminal and change Directory to extracted folder "ppl-assignment-lorduchiha".
         
+        
+        ##RECOMMENDED TO USE NETBEABS FOR FLAWLESS EXECUTION
        FOR QUESTION 1 & 2--->
          
                        Then change Directory to "/questions/src/".
