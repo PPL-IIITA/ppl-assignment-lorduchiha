@@ -3,8 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package q8;
-
 public class Newgiftingmethod {
     public void calculate(Gifts[] gft,Boys[] b,Girls[] g){
         int[] price = new int[100];
