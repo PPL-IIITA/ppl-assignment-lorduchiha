@@ -64,7 +64,7 @@
       
       documentation_Q1 for question2 and run index.html  for both
       
-      Open folder DOCUMENTATION for documentation for question 3 to 10.
+      For Documentation of questions 3 to 10 open Folder Q3_DOC,Q4_DOC...Q10_DOC.
   
  
  
