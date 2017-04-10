@@ -3,8 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package q10;
-
 class sorting {
     public void sort(Boys[] b,Girls[] g,Gifts[] gft){
         int i,j,k;
