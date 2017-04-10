@@ -1,5 +1,4 @@
-package q8;
-import java.lang.*;
+mport java.lang.*;
 
 public class Gifting {
     public void calculate(Gifts gft[],Boys b[],Girls g[]){
