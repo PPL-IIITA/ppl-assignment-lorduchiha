@@ -3,10 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package q5;
-
-
-
 public class Make_couples {
     public void make_couples(Boys[] b,Girls[] g){
         int turn = 0;
