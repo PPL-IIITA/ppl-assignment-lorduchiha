@@ -1,4 +1,4 @@
-package q10;
+
 import java.lang.*;
 import java.util.Random;
 
